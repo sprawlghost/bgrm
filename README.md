@@ -2,6 +2,7 @@
 Background resource manager
 
 ===== Overview =====
+
 The idea of bgrm is to create a resource manager that operates by modifying the desktop background periodically
 rather than other methods (such as conky) so that it will continue to show through transparent windows like terminals.
 
